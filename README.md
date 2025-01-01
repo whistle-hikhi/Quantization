@@ -1,2 +1,2 @@
 # Quantization
-Quantization in depth
+Quantization in depth by Deeplearning AI explained by my understanding
